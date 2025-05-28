@@ -12,6 +12,7 @@ ALLOWED_HOSTS = ['localhost',
                  '0.0.0.0',
                  'backend',  # Имя сервиса в docker-compose
                  # Для production
+                 '51.250.99.222'
                  ]
 
 
