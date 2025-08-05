@@ -12,7 +12,7 @@ ALLOWED_HOSTS = [
     'localhost',
     '51.250.99.222',
     'docker-taski.ddns.net'
-    ] 
+]
 
 # Application definition
 
