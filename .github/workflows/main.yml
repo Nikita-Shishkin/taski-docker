@@ -118,7 +118,7 @@ jobs:
         with:
           context: ./gateway/
           push: true
-          tags: nikitaShishkin/taski_gateway:latest
+          tags: nikitashishkin/taski_gateway:latest
 
   # deploy:
   #   runs-on: ubuntu-latest
